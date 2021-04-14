@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Gantt-git/static/css/main.b8236127.chunk.css",
+    "main.js": "/Gantt-git/static/js/main.a7aec3ca.chunk.js",
+    "main.js.map": "/Gantt-git/static/js/main.a7aec3ca.chunk.js.map",
+    "runtime-main.js": "/Gantt-git/static/js/runtime-main.97285d7d.js",
+    "runtime-main.js.map": "/Gantt-git/static/js/runtime-main.97285d7d.js.map",
+    "static/css/2.ce6da583.chunk.css": "/Gantt-git/static/css/2.ce6da583.chunk.css",
+    "static/js/2.a4b070e9.chunk.js": "/Gantt-git/static/js/2.a4b070e9.chunk.js",
+    "static/js/2.a4b070e9.chunk.js.map": "/Gantt-git/static/js/2.a4b070e9.chunk.js.map",
+    "static/js/3.1beb5fad.chunk.js": "/Gantt-git/static/js/3.1beb5fad.chunk.js",
+    "static/js/3.1beb5fad.chunk.js.map": "/Gantt-git/static/js/3.1beb5fad.chunk.js.map",
+    "index.html": "/Gantt-git/index.html",
+    "static/css/2.ce6da583.chunk.css.map": "/Gantt-git/static/css/2.ce6da583.chunk.css.map",
+    "static/css/main.b8236127.chunk.css.map": "/Gantt-git/static/css/main.b8236127.chunk.css.map",
+    "static/js/2.a4b070e9.chunk.js.LICENSE.txt": "/Gantt-git/static/js/2.a4b070e9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Gantt-git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97285d7d.js",
+    "static/css/2.ce6da583.chunk.css",
+    "static/js/2.a4b070e9.chunk.js",
+    "static/css/main.b8236127.chunk.css",
+    "static/js/main.a7aec3ca.chunk.js"
+  ]
+}
